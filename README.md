@@ -1,4 +1,4 @@
-# 🧪 COVID-19 Data Analysis (SQL Server + Power BI)
+# 🧪 COVID-19 Global Impact & Vaccination Analytics
 
 This project analyzes global COVID-19 trends using **SQL Server** for data preparation and **Power BI** for visualization.  
 It demonstrates how to transform raw COVID-19 data into meaningful insights on infection rates, vaccination progress, and overall pandemic impact.
