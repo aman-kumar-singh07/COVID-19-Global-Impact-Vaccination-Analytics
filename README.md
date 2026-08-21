@@ -88,6 +88,6 @@ Access the complete COVID-19 dataset here:
 ---
 
 ## 👤 Author
-**Manuja Palamakumbura**  
+**Aman Kumar Singh**  
 Data & Analytics Enthusiast  
-👉 [Project Portfolio [[[https://1drv.ms/f/c/ede05ee8b19c3fa2/Egrzlf10q6BAhgewgzvvMn8BUglXiJCVNhk_oMyLvVmiTA?e=GmvSpA](https://manuja84.wixsite.com/data-projects)]]
+
